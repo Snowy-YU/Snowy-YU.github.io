@@ -16,14 +16,14 @@
 
 **Research Assistant @ Dongbei University of Finance and Economics (01/2022 - 01/2023)**
 - Leveraged **R** to extract data from Gaode maps, collecting geographic information relevant to specified keywords, acquiring longitude and latitude data, and organizing geographical datasets.
-![mapimage](/assets/img/Geoinfo.jpeg)
+![mapimage](/assets/img/Geoinfo.jpg)
 - Utilize **Stata** to organize microdata from household surveys such as CHFS. Analyze the dynamic financial situation of Chinese households. Study household data and decision-making in financial markets around the world, with primary focus on China, EU, and US.
 
 ## Projects
 ### Machine Learning Application - Developed a robust predictive model using a range of machine learning techniques to estimate the credit risk ratings of companies.
 
 Developed machine learning models to predict corporate credit ratings using financial ratios from 2029 US firms with **Python**. The project compared various models, including CATBOOST, XGBOOST, and Random Forest, which outperformed traditional methods with a 91% accuracy. A novel “Notch Distance” metric was introduced to measure deviations between predicted and actual ratings, enhancing model evaluation. Additionally, extensive hyperparameter tuning using GridSearchCV, RandomizedSearchCV, and Bayesian Optimization significantly improved model performance and efficiency. The approach offers a scalable solution for timely and accurate credit rating predictions.
-![comparation](/assets/img/qf624.jpeg)
+![comparation](/assets/img/qf624.jpg)
 [Github repo](https://github.com/agarwgou/MachineLearningApplication)
 
 
