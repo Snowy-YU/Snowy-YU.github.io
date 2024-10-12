@@ -1,5 +1,4 @@
 # A small PhD student
-Happy to engage in academic conversations! My email is *224030231@link.cuhk.edu.cn*.
 
 #### Programming: Python, Stata, MATLAB, C++(poor)
 #### Tools: Stata, LaTeX
