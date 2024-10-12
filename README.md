@@ -36,3 +36,4 @@ The project implemented multi-threading to enhance performance during the calcul
 Not quite there yet, but going full beast mode!
 
 - [Personal Blog](https://medium.com/@chunxue.yu.2023)
+- [LinkedIn](www.linkedin.com/in/chunxue-yu)
