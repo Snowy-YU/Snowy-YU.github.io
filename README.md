@@ -1,13 +1,13 @@
-# A student
+# A small fish 🐟
 
-#### Programming: Python, Stata, MATLAB, C++(poor)
-#### Tools: Stata, LaTeX
+#### Programming: Python, Stata, MATLAB, C++(poor) ｜ Tools: Stata, LaTeX
+
 
 ## Education
-- Ph.D., Computational Social Science | The University of Texas at Dallas (09/2024 - Present)
-- M.S., Quantitative in Finance	      | Singapore Management University (08/2023 - 07/2024)	 		
-- M.A., Applied Economics	            | Dongbei University of Finance and Economics (09/2021 - 01/2024)	
-- B.E., Environmental Engineering     | Jilin University (09/2017 - 06/2021)
+- Ph.D., Computational Social Science | CUHK(SZ) (09/2024 - Present)
+- M.S., Quantitative in Finance | SMU (08/2023 - 07/2024)	 		
+- M.A., Applied Economics | DUFE (09/2021 - 01/2024)	
+- B.E., Environmental Engineering and Accoutnting | JLU (09/2017 - 06/2021)
 
 ## Work Experience
 **Research Assistant @ Singapore Management University (02/2024 - 08/2024)**
@@ -28,8 +28,8 @@ Developed machine learning models to predict corporate credit ratings using fina
 [Github repo](https://github.com/agarwgou/MachineLearningApplication)
 
 
-### C++ for Financial Engineering - 
-Developed a C++-based trade pricing engine to evaluate a portfolio of trades using two days of market data. The project implemented multi-threading to enhance performance during the calculation of portfolio metrics, including Present Value (PV), DV01, and Vega. Design patterns were employed for trade creation, ensuring scalability and code maintainability. A PnL calculation was performed by comparing the PV between the two dates, and the portfolio’s risk was analyzed. Additionally, a strategy was designed to either square off the portfolio’s risk or maximize PnL within pre-defined DV01 and Vega limits, providing a robust framework for portfolio risk management and optimization.
+### C++ for Financial Engineering - Developed a C++-based trade pricing engine to evaluate a portfolio of trades using two days of market data.
+The project implemented multi-threading to enhance performance during the calculation of portfolio metrics, including Present Value (PV), DV01, and Vega. Design patterns were employed for trade creation, ensuring scalability and code maintainability. A PnL calculation was performed by comparing the PV between the two dates, and the portfolio’s risk was analyzed. Additionally, a strategy was designed to either square off the portfolio’s risk or maximize PnL within pre-defined DV01 and Vega limits, providing a robust framework for portfolio risk management and optimization.
 
 
 ## Publications
