@@ -1,4 +1,4 @@
-# A small PhD student
+# A student
 
 #### Programming: Python, Stata, MATLAB, C++(poor)
 #### Tools: Stata, LaTeX
@@ -24,7 +24,7 @@
 
 Developed machine learning models to predict corporate credit ratings using financial ratios from 2029 US firms with **Python**. The project compared various models, including CATBOOST, XGBOOST, and Random Forest, which outperformed traditional methods with a 91% accuracy. A novel “Notch Distance” metric was introduced to measure deviations between predicted and actual ratings, enhancing model evaluation. Additionally, extensive hyperparameter tuning using GridSearchCV, RandomizedSearchCV, and Bayesian Optimization significantly improved model performance and efficiency. The approach offers a scalable solution for timely and accurate credit rating predictions.
 ![comparation](/assets/img/qf624.jpg)
-      
+         
 [Github repo](https://github.com/agarwgou/MachineLearningApplication)
 
 
