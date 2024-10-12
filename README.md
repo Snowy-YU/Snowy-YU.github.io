@@ -4,7 +4,6 @@
 
 
 ## Education
-- Ph.D., Computational Social Science | CUHK(SZ) (09/2024 - Present)
 - M.S., Quantitative in Finance | SMU (08/2023 - 07/2024)	 		
 - M.A., Applied Economics | DUFE (09/2021 - 01/2024)	
 - B.E., Environmental Engineering and Accoutnting | JLU (09/2017 - 06/2021)
